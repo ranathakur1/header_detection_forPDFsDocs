@@ -1,0 +1,12 @@
+# Core dependencies
+PyMuPDF>=1.23.0
+
+# Optional dependencies for development
+# Uncomment these for development environment:
+# pytest>=6.0
+# pytest-cov>=2.0
+# black>=21.0
+# flake8>=3.8
+# mypy>=0.800
+# sphinx>=3.0
+# sphinx-rtd-theme>=0.5
